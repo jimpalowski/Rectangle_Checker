@@ -1,0 +1,10 @@
+/Users/jimmy/Desktop/Rectangle_Checker/bin/Debug/netcoreapp1.1/rectangle.deps.json
+/Users/jimmy/Desktop/Rectangle_Checker/bin/Debug/netcoreapp1.1/rectangle.runtimeconfig.json
+/Users/jimmy/Desktop/Rectangle_Checker/bin/Debug/netcoreapp1.1/rectangle.runtimeconfig.dev.json
+/Users/jimmy/Desktop/Rectangle_Checker/bin/Debug/netcoreapp1.1/rectangle.dll
+/Users/jimmy/Desktop/Rectangle_Checker/bin/Debug/netcoreapp1.1/rectangle.pdb
+/Users/jimmy/Desktop/Rectangle_Checker/obj/Debug/netcoreapp1.1/rectangle.csproj.CoreCompileInputs.cache
+/Users/jimmy/Desktop/Rectangle_Checker/obj/Debug/netcoreapp1.1/rectangle.AssemblyInfoInputs.cache
+/Users/jimmy/Desktop/Rectangle_Checker/obj/Debug/netcoreapp1.1/rectangle.AssemblyInfo.cs
+/Users/jimmy/Desktop/Rectangle_Checker/obj/Debug/netcoreapp1.1/rectangle.dll
+/Users/jimmy/Desktop/Rectangle_Checker/obj/Debug/netcoreapp1.1/rectangle.pdb
